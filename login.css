@@ -1,0 +1,407 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:607px;
+  min-width:200px;
+  max-width:406px;
+  margin:auto;
+  background-color:rgba(47, 48, 58, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Untitled-design--19-{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:360px;
+  width:46px;
+  min-width:46px;
+  height:42px;
+  margin-top:0px;
+  margin-bottom:565px;
+  min-height:42px;
+  content:url(assets/images/Untitled_design__19__1.png);
+}
+.Untitled-design--19--outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Welcome-Back-{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:67px;
+  width:299px;
+  min-width:299px;
+  margin-top:-516px;
+  margin-bottom:469px;
+  min-height:47px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:35px;
+  line-height:53.333335876464844px;
+}
+.Welcome-Back--outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Please-Login{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:123px;
+  width:178px;
+  min-width:178px;
+  margin-top:-462px;
+  margin-bottom:431px;
+  min-height:31px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:25px;
+  line-height:37.03704071044922px;
+}
+.Please-Login-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.User-ID-E-Mail{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:55px;
+  width:107px;
+  min-width:107px;
+  margin-top:-354px;
+  margin-bottom:325px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.User-ID-E-Mail-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Rectangle-12{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:56px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:-330px;
+  margin-bottom:297px;
+  min-height:33px;
+  background-color:rgba(47, 48, 58, 1);
+  backdrop-filter:blur(4px);
+  -webkit-backdrop-filter:blur(4px);
+  border:2px solid rgba(23, 98, 167, 1);
+  box-sizing:border-box;
+}
+.Rectangle-12-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Enter-User-ID-E-mail{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:68px;
+  width:133px;
+  min-width:133px;
+  margin-top:-320px;
+  margin-bottom:289px;
+  min-height:31px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:9px;
+  line-height:13.333333969116211px;
+}
+.Enter-User-ID-E-mail-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Password{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:55px;
+  width:107px;
+  min-width:107px;
+  margin-top:-275px;
+  margin-bottom:246px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.Password-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Rectangle-13{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:56px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:-252px;
+  margin-bottom:219px;
+  min-height:33px;
+  content:url(assets/images/Rectangle_13.png);
+}
+.Rectangle-13-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Enter-Password{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:68px;
+  width:133px;
+  min-width:133px;
+  margin-top:-243px;
+  margin-bottom:227px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:9px;
+  line-height:13.333333969116211px;
+}
+.Enter-Password-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Forgot-Password-{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:234px;
+  width:192px;
+  min-width:192px;
+  margin-top:-215px;
+  margin-bottom:185px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(38, 196, 231, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.Forgot-Password--outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Rectangle-14{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:115px;
+  width:173px;
+  min-width:173px;
+  height:29px;
+  margin-top:-147px;
+  margin-bottom:118px;
+  min-height:29px;
+  background-color:rgba(26, 114, 195, 1);
+}
+.Rectangle-14-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Login{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:181px;
+  width:107px;
+  min-width:107px;
+  margin-top:-143px;
+  margin-bottom:114px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.Login-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.New-To-SplitTie-{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:100px;
+  width:128px;
+  min-width:128px;
+  margin-top:-84px;
+  margin-bottom:55px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.New-To-SplitTie--outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.q-{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:296px;
+  width:192px;
+  min-width:192px;
+  margin-top:-84px;
+  margin-bottom:54px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(38, 196, 231, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:15px;
+  line-height:22.22222328186035px;
+}
+.q--outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Sign-Up-Free{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:214px;
+  width:192px;
+  min-width:192px;
+  margin-top:-84px;
+  margin-bottom:54px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(38, 196, 231, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.Sign-Up-Free-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
