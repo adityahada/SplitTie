@@ -1,0 +1,270 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:440px;
+  min-width:200px;
+  max-width:406px;
+  margin:auto;
+  background-color:rgba(47, 48, 58, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Untitled-design--19-{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:360px;
+  width:46px;
+  min-width:46px;
+  height:42px;
+  margin-top:0px;
+  margin-bottom:398px;
+  min-height:42px;
+  content:url(assets/images/Untitled_design__19__1.png);
+}
+.Untitled-design--19--outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Enter-new-Password{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:46px;
+  width:338px;
+  min-width:338px;
+  margin-top:-356px;
+  margin-bottom:318px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:15px;
+  line-height:22.22222328186035px;
+}
+.Enter-new-Password-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Enter-pass-1{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:46px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:-318px;
+  margin-bottom:285px;
+  min-height:33px;
+}
+.Enter-pass-1-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Rectangle-13{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:0px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:33px;
+  content:url(assets/images/Rectangle_13.png);
+}
+.Rectangle-13-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Enter-Password-1{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:12px;
+  width:133px;
+  min-width:133px;
+  margin-top:-24px;
+  margin-bottom:8px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:9px;
+  line-height:13.333333969116211px;
+}
+.Enter-Password-1-outer{
+  pointer-events:none;
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.Enter-pass-2{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:46px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:-252px;
+  margin-bottom:219px;
+  min-height:33px;
+  backdrop-filter:blur(4px);
+  -webkit-backdrop-filter:blur(4px);
+}
+.Enter-pass-2-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-15{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:0px;
+  width:290px;
+  min-width:290px;
+  height:33px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:33px;
+  content:url(assets/images/Rectangle_15.png);
+}
+.Rectangle-15-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Enter-Password{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:12px;
+  width:133px;
+  min-width:133px;
+  margin-top:-24px;
+  margin-bottom:8px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:9px;
+  line-height:13.333333969116211px;
+}
+.Enter-Password-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Login{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:118px;
+  width:173px;
+  min-width:173px;
+  height:33px;
+  margin-top:-118px;
+  margin-bottom:85px;
+  min-height:33px;
+}
+.Login-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Rectangle-14{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:0px;
+  width:173px;
+  min-width:173px;
+  height:29px;
+  margin-top:0px;
+  margin-bottom:4px;
+  min-height:29px;
+  background-color:rgba(26, 114, 195, 1);
+}
+.Rectangle-14-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Login-1{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:66px;
+  width:107px;
+  min-width:107px;
+  margin-top:-29px;
+  margin-bottom:0px;
+  min-height:29px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:13px;
+  line-height:19.259260177612305px;
+}
+.Login-1-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
